@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346493911154",
+    "project_id": "delni-ea58d",
+    "storage_bucket": "delni-ea58d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346493911154:android:158fd16773b17e005a42eb",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346493911154-vl59lcc7iue47l2hk027l3k73su9cir9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example",
+            "certificate_hash": "f49b23b34e55c99dabaab57470a4f9d044657b6f"
+          }
+        },
+        {
+          "client_id": "346493911154-2letgq1nflh4d2ig19r7smg4s433oot2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWiJtiJPV9sBzGNcSJSSyzK63ulCHCqrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346493911154-2letgq1nflh4d2ig19r7smg4s433oot2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
